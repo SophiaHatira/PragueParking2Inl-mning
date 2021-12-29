@@ -1,0 +1,7 @@
+﻿mcsize: 2:			Storlek för MC
+carsize: 4:			Storlek för bil
+parkingspot: 4:		Parkeringsrutans storlek
+parkinglot: 100:	Antal parkeringsplatser
+carprice :20:		Pris för bil
+mcprice: 10:		Pris för MC
+freemin: 10:		10min fri parkering

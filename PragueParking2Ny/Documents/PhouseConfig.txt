@@ -1,0 +1,1 @@
+[{"RegNumber":"ABC123","VehSize":2,"VehType":"MC","ParkTime":"2021-12-29T09:12:36.2861453+01:00","ParkedOnSpot":3,"vehCost":10}]
